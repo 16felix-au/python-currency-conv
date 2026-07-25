@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/16felix-au/python-currency-conv.git
 ```
+
+*Initialized by cyber-eng-64 workspace automation.*
